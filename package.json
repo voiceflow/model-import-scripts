@@ -10,7 +10,7 @@
     "@voiceflow/base-types": "2.96.0",
     "@voiceflow/backend-utils": "4.8.5",
     "@voiceflow/voiceflow-types": "3.26.7",
-    "jszip": "3.7.1",
+    "jszip": "3.8.0",
     "lodash": "4.17.21",
     "transliteration": "2.2.0",
     "papaparse": "5.3.2",
